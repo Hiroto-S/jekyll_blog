@@ -6,6 +6,10 @@
 手法
 ----
 
+-   grad~research19f~/members/hirotoにあるconv~mdtomemoを~
+
+自分の\~/bin/にcpする
+
 -   記録先はgrad~research19f~/README.orgとする
 -   プログラム内のグローバル変数(\$jekyll~postspath~)を自分のpathに変更する
     -   jekyll~listpostsのパス~
