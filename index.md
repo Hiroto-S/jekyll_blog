@@ -6,6 +6,8 @@ title: Home
 
 <h1> Member's Jekyll List </h1>
 
+[西谷先生](https://daddygongon.github.io/jekyll_test9/blog.html)
+
 [日山](https://nichiyama.github.io/nichiyamanko/19-07-17/chinko)
 
 [河野](https://hiroto-s.github.io/jekyll_list/blog.html)
